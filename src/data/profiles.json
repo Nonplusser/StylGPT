@@ -1,0 +1,58 @@
+{
+  "78OYOdn8OeN4SNQT30TurF8I04u2": {
+    "uid": "78OYOdn8OeN4SNQT30TurF8I04u2",
+    "notifications": {
+      "email": true,
+      "appAlerts": true
+    },
+    "language": "en"
+  },
+  "ekh7vOXX2FWYK791ihHzTA5esgv1": {
+    "uid": "ekh7vOXX2FWYK791ihHzTA5esgv1",
+    "notifications": {
+      "email": true,
+      "appAlerts": true
+    },
+    "language": "en"
+  },
+  "zHrX30Fp6TNKTBoBV9S6fdlsxaA3": {
+    "uid": "zHrX30Fp6TNKTBoBV9S6fdlsxaA3",
+    "notifications": {
+      "email": true,
+      "appAlerts": true
+    },
+    "language": "en",
+    "genderPreference": "male",
+    "age": 31,
+    "weight": 235,
+    "height": 77,
+    "bodyType": "Athletic",
+    "feet": 6,
+    "inches": 5,
+    "unitPreference": "imperial",
+    "unusedItemPreference": "medium",
+    "stylePreferences": [
+      "casual",
+      "streetwear",
+      "minimalist",
+      "formal",
+      "business-casual",
+      "sporty",
+      "bohemian"
+    ],
+    "colorPreferences": [
+      "#FF0000",
+      "#0000FF",
+      "#FFFFFF",
+      "#FFA500",
+      "#4B0082",
+      "#808080",
+      "#FFFF00",
+      "#EE82EE",
+      "#A52A2A",
+      "#008000",
+      "#000000",
+      "#F5DEB3"
+    ]
+  }
+}

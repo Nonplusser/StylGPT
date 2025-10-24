@@ -1,0 +1,450 @@
+[
+  {
+    "id": "4d29ce36-425f-4744-b279-c742e3f1be32",
+    "name": "business casual",
+    "description": "This business casual outfit features gray pants, a blue shirt, a brown belt, and brown oxford shoes. The silver watch adds a touch of sophistication.",
+    "itemIds": [
+      "eb5f9a1c-db50-42da-8349-9dc749ecefd4",
+      "d81eeaf4-aa9e-48f3-8b39-024362bf1086",
+      "27e8205f-472e-4b6b-80f4-c26d46948f82",
+      "1ac89578-645e-4bfb-aec7-c02ab3b70885",
+      "b20179b9-78dd-4ff6-9e56-adb9d7292571"
+    ],
+    "userId": "78OYOdn8OeN4SNQT30TurF8I04u2",
+    "itemLayouts": {
+      "eb5f9a1c-db50-42da-8349-9dc749ecefd4": {
+        "x": 72.5376912072191,
+        "y": 72.1875,
+        "width": 50,
+        "height": 50,
+        "zIndex": 2
+      },
+      "d81eeaf4-aa9e-48f3-8b39-024362bf1086": {
+        "x": 72.5376912072191,
+        "y": 27.8125,
+        "width": 60,
+        "height": 50,
+        "zIndex": 3
+      },
+      "27e8205f-472e-4b6b-80f4-c26d46948f82": {
+        "x": 40.703202377022116,
+        "y": 57.49999999999999,
+        "width": 33.660173874766144,
+        "height": 28.4375,
+        "zIndex": 2
+      },
+      "1ac89578-645e-4bfb-aec7-c02ab3b70885": {
+        "x": 34.50533729503689,
+        "y": 81.875,
+        "width": 34.78705843512711,
+        "height": 31.5625,
+        "zIndex": 3
+      },
+      "b20179b9-78dd-4ff6-9e56-adb9d7292571": {
+        "x": 22.817211400902387,
+        "y": 52.81249999999999,
+        "width": 20,
+        "height": 20,
+        "zIndex": 5
+      }
+    }
+  },
+  {
+    "id": "ca47f76c-329c-45be-bd01-8e8fcac8bc5b",
+    "name": "business ",
+    "description": "This formal outfit features a gray suit jacket, a blue shirt, and gray pants. Accessorize with a black belt, silver watch, and black oxford shoes.",
+    "itemIds": [
+      "c8e1ff5e-23ad-4b0e-9d21-6271c88bbecd",
+      "eb5f9a1c-db50-42da-8349-9dc749ecefd4",
+      "81b4067c-6491-4a42-8060-7ef3516e1ca7",
+      "b70bfb13-52db-40a7-ba84-0b258d219b5f",
+      "b20179b9-78dd-4ff6-9e56-adb9d7292571",
+      "e6340464-ad8e-4770-949a-38d83d5a204c"
+    ],
+    "userId": "78OYOdn8OeN4SNQT30TurF8I04u2",
+    "itemLayouts": {
+      "c8e1ff5e-23ad-4b0e-9d21-6271c88bbecd": {
+        "x": 81.55276769010675,
+        "y": 21.5625,
+        "width": 34.50533729503687,
+        "height": 33.4375,
+        "zIndex": 4
+      },
+      "eb5f9a1c-db50-42da-8349-9dc749ecefd4": {
+        "x": 79.2989985693848,
+        "y": 63.74999999999999,
+        "width": 43.5204137779245,
+        "height": 40.9375,
+        "zIndex": 2
+      },
+      "81b4067c-6491-4a42-8060-7ef3516e1ca7": {
+        "x": 48.873115439639044,
+        "y": 84.6875,
+        "width": 36.1956641355783,
+        "height": 31.5625,
+        "zIndex": 2
+      },
+      "b70bfb13-52db-40a7-ba84-0b258d219b5f": {
+        "x": 57.88819192252669,
+        "y": 51.87500000000001,
+        "width": 53.944095961263336,
+        "height": 24.0625,
+        "zIndex": 3
+      },
+      "b20179b9-78dd-4ff6-9e56-adb9d7292571": {
+        "x": 36.058104985143615,
+        "y": 51.87500000000001,
+        "width": 20,
+        "height": 20,
+        "zIndex": 5
+      },
+      "e6340464-ad8e-4770-949a-38d83d5a204c": {
+        "x": 50.28172114009024,
+        "y": 22.8125,
+        "width": 43.941895014856385,
+        "height": 34.0625,
+        "zIndex": 3
+      }
+    }
+  },
+  {
+    "id": "4a92dc6a-2160-426b-9427-49f6b8fca371",
+    "name": "golf",
+    "description": "A coral Oxford shirt paired with white straight pants, brown Oxford shoes, and a beige woven hat creates a fresh, garden-party-appropriate look. The light colors and breathable fabrics ensure comfort and style for an outdoor event.",
+    "itemIds": [
+      "32113d32-80c5-40cf-a9c7-7e8218eda5b2",
+      "1c375386-a96c-450d-bd08-9b2237c03e63",
+      "236249c6-fc44-4df0-bf5a-1632c9967377",
+      "43d7514f-569c-411f-b2ef-6b749f5a3e1b"
+    ],
+    "userId": "ekh7vOXX2FWYK791ihHzTA5esgv1",
+    "itemLayouts": {
+      "32113d32-80c5-40cf-a9c7-7e8218eda5b2": {
+        "x": 50,
+        "y": 30,
+        "width": 43.31327717609306,
+        "height": 32.1875,
+        "zIndex": 3
+      },
+      "1c375386-a96c-450d-bd08-9b2237c03e63": {
+        "x": 50,
+        "y": 70,
+        "width": 50,
+        "height": 50,
+        "zIndex": 2
+      },
+      "236249c6-fc44-4df0-bf5a-1632c9967377": {
+        "x": 19.450461291616527,
+        "y": 79.0625,
+        "width": 31.516245487364618,
+        "height": 29.375,
+        "zIndex": 2
+      },
+      "43d7514f-569c-411f-b2ef-6b749f5a3e1b": {
+        "x": 50.256718812675494,
+        "y": 5.9375,
+        "width": 21.528279181708783,
+        "height": 12.5,
+        "zIndex": 4
+      }
+    }
+  },
+  {
+    "id": "22c34b77-7610-4b40-87d3-6e420994d51f",
+    "name": "golf",
+    "description": "This casual outfit features a teal Oxford shirt paired with beige pants, brown shoes, and a beige hat. The combination creates a relaxed yet stylish look, suitable for everyday wear. ",
+    "itemIds": [
+      "cdbcbdab-45ce-420a-ac23-716e0e3252b5",
+      "bd9c4725-4379-4309-bfd7-cf8d170f3e5d",
+      "b39ab724-6f7a-4258-9a14-d843d179942f",
+      "43d7514f-569c-411f-b2ef-6b749f5a3e1b"
+    ],
+    "userId": "ekh7vOXX2FWYK791ihHzTA5esgv1",
+    "itemLayouts": {
+      "cdbcbdab-45ce-420a-ac23-716e0e3252b5": {
+        "x": 50,
+        "y": 30,
+        "width": 41.77387816495362,
+        "height": 30.625000000000004,
+        "zIndex": 3
+      },
+      "bd9c4725-4379-4309-bfd7-cf8d170f3e5d": {
+        "x": 52.567059413386815,
+        "y": 69.0625,
+        "width": 50,
+        "height": 50,
+        "zIndex": 2
+      },
+      "b39ab724-6f7a-4258-9a14-d843d179942f": {
+        "x": 22.27575833542241,
+        "y": 84.6875,
+        "width": 32.28729004763098,
+        "height": 26.25,
+        "zIndex": 2
+      },
+      "43d7514f-569c-411f-b2ef-6b749f5a3e1b": {
+        "x": 48.97317623464528,
+        "y": 6.25,
+        "width": 27.432940586613185,
+        "height": 10.9375,
+        "zIndex": 4
+      }
+    }
+  },
+  {
+    "id": "010aea09-c592-454e-880a-ce8c21958b43",
+    "name": "1",
+    "description": "A business casual outfit featuring a light yellow Oxford shirt paired with blue slim pants. Brown Oxford shoes complement the look, and a beige woven hat adds a touch of style, perfect for any season.",
+    "itemIds": [
+      "fbcaf55c-b9d3-4bbe-8c55-1fb987e675b8",
+      "f7cde49a-af6d-4d9d-9ec7-acd42df77eff",
+      "236249c6-fc44-4df0-bf5a-1632c9967377",
+      "43d7514f-569c-411f-b2ef-6b749f5a3e1b"
+    ],
+    "userId": "ekh7vOXX2FWYK791ihHzTA5esgv1",
+    "itemLayouts": {
+      "fbcaf55c-b9d3-4bbe-8c55-1fb987e675b8": {
+        "x": 47.94624949859607,
+        "y": 29.375,
+        "width": 55.12234255916566,
+        "height": 32.1875,
+        "zIndex": 3
+      },
+      "f7cde49a-af6d-4d9d-9ec7-acd42df77eff": {
+        "x": 50,
+        "y": 70,
+        "width": 50,
+        "height": 50,
+        "zIndex": 2
+      },
+      "236249c6-fc44-4df0-bf5a-1632c9967377": {
+        "x": 19.450461291616527,
+        "y": 82.1875,
+        "width": 28.949057360609707,
+        "height": 28.4375,
+        "zIndex": 2
+      },
+      "43d7514f-569c-411f-b2ef-6b749f5a3e1b": {
+        "x": 48.20296831127156,
+        "y": 5.3125,
+        "width": 20.244685118331326,
+        "height": 11.25,
+        "zIndex": 4
+      }
+    }
+  },
+  {
+    "id": "fd00d850-4e56-4992-958d-2f097724243c",
+    "name": "Coral Charm Ensemble",
+    "description": "A fresh and stylish combination that's perfect for a formal garden party. The coral Oxford shirt brings a vibrant pop of color, while the beige slim pants offer a complementary neutral tone. The brown oxford shoes provide a grounded, classic touch, and the beige woven hat adds a touch of summery charm and sun protection. The gray woven blazer pulls the outfit together, adding a layer of texture and sophistication.",
+    "itemIds": [
+      "32113d32-80c5-40cf-a9c7-7e8218eda5b2",
+      "bd9c4725-4379-4309-bfd7-cf8d170f3e5d",
+      "b39ab724-6f7a-4258-9a14-d843d179942f",
+      "43d7514f-569c-411f-b2ef-6b749f5a3e1b",
+      "abcb1593-5a42-47fc-a550-04bcd8a88daa"
+    ],
+    "userId": "ekh7vOXX2FWYK791ihHzTA5esgv1"
+  },
+  {
+    "id": "7b56f092-7aa9-40ca-8ac5-a1cf3a861993",
+    "name": "Garden Party Refinement",
+    "description": "A refined and elegant ensemble, perfect for a formal garden party. The light yellow Oxford shirt paired with slim-fit gray pants creates a fresh, summery base. The brown woven blazer adds a touch of sophistication and texture, while the brown oxford shoes complete the look with classic charm. The beige woven hat provides shade and style, enhancing the garden party aesthetic.",
+    "itemIds": [
+      "fbcaf55c-b9d3-4bbe-8c55-1fb987e675b8",
+      "6fd0cea6-cfb5-40b1-94ad-43132e549167",
+      "7d51f7b9-e427-4870-97f5-04fb5abb0f73",
+      "b39ab724-6f7a-4258-9a14-d843d179942f",
+      "43d7514f-569c-411f-b2ef-6b749f5a3e1b"
+    ],
+    "userId": "ekh7vOXX2FWYK791ihHzTA5esgv1",
+    "itemLayouts": {
+      "fbcaf55c-b9d3-4bbe-8c55-1fb987e675b8": {
+        "x": 50.57354094320602,
+        "y": 29.6875,
+        "width": 49.10272207908592,
+        "height": 37.5,
+        "zIndex": 2
+      },
+      "6fd0cea6-cfb5-40b1-94ad-43132e549167": {
+        "x": 50,
+        "y": 70,
+        "width": 50,
+        "height": 50,
+        "zIndex": 2
+      },
+      "7d51f7b9-e427-4870-97f5-04fb5abb0f73": {
+        "x": 79.25058810350622,
+        "y": 30.625000000000004,
+        "width": 35.37470594824689,
+        "height": 38.4375,
+        "zIndex": 2
+      },
+      "b39ab724-6f7a-4258-9a14-d843d179942f": {
+        "x": 19.315559538478773,
+        "y": 82.1875,
+        "width": 30.212837459392855,
+        "height": 21.5625,
+        "zIndex": 3
+      },
+      "43d7514f-569c-411f-b2ef-6b749f5a3e1b": {
+        "x": 51.720622829618016,
+        "y": 5.9375,
+        "width": 18.24241066427691,
+        "height": 12.5,
+        "zIndex": 4
+      }
+    }
+  },
+  {
+    "id": "6ccdd309-3e49-4e73-bff8-eb61de680e29",
+    "name": "Gingham Fresh",
+    "description": "A fresh and stylish outfit that's perfect for a relaxed yet refined look. The green and white gingham shirt adds a touch of visual interest, while the slim white pants keep the outfit crisp and clean. The navy oxford shoes complement the shirt and provide a subtle pop of color.",
+    "itemIds": [
+      "c757870e-6dad-43d1-870b-413fad7b6cd4",
+      "1c375386-a96c-450d-bd08-9b2237c03e63",
+      "dd4b9ad9-d13c-4d36-856c-e7e659baaf55"
+    ],
+    "userId": "ekh7vOXX2FWYK791ihHzTA5esgv1",
+    "itemLayouts": {
+      "c757870e-6dad-43d1-870b-413fad7b6cd4": {
+        "x": 50,
+        "y": 30,
+        "width": 46.5217878346589,
+        "height": 39.0625,
+        "zIndex": 3
+      },
+      "1c375386-a96c-450d-bd08-9b2237c03e63": {
+        "x": 51.147081886412,
+        "y": 68.75,
+        "width": 50,
+        "height": 50,
+        "zIndex": 2
+      },
+      "dd4b9ad9-d13c-4d36-856c-e7e659baaf55": {
+        "x": 14.440461521227736,
+        "y": 80.625,
+        "width": 35.08793547664389,
+        "height": 33.4375,
+        "zIndex": 2
+      }
+    }
+  },
+  {
+    "id": "a052ca6c-8b45-4366-939b-0f7dbe8eed9b",
+    "name": "Coastal Casual",
+    "description": "A classic and comfortable summer look. The light blue polo complements the neutral beige shorts, perfect for a sunny day out. Complete with white sneakers for a clean and casual vibe.",
+    "itemIds": [
+      "a0919675-aef3-44f5-b6c0-a61c193d00b5",
+      "c60191d7-261e-4ee8-ad32-56a1c2c107b4",
+      "18d534f3-bb45-4d27-9259-e0f9202c8e15",
+      "53a8920c-1d53-44ac-a971-cd0e63e1138b"
+    ],
+    "userId": "zHrX30Fp6TNKTBoBV9S6fdlsxaA3",
+    "itemLayouts": {
+      "a0919675-aef3-44f5-b6c0-a61c193d00b5": {
+        "x": 27.330021161100376,
+        "y": 14.0625,
+        "width": 60,
+        "height": 50,
+        "zIndex": 3
+      },
+      "c60191d7-261e-4ee8-ad32-56a1c2c107b4": {
+        "x": 21.1472996595823,
+        "y": 62.5,
+        "width": 50,
+        "height": 50,
+        "zIndex": 2
+      },
+      "18d534f3-bb45-4d27-9259-e0f9202c8e15": {
+        "x": 52.649737786364895,
+        "y": 91.06250000000001,
+        "width": 45,
+        "height": 15,
+        "zIndex": 1
+      },
+      "53a8920c-1d53-44ac-a971-cd0e63e1138b": {
+        "x": 76.791793173245,
+        "y": 52.1875,
+        "width": 50,
+        "height": 50,
+        "zIndex": 3
+      }
+    }
+  },
+  {
+    "id": "042e9a28-ab07-4080-89a3-6225256da26f",
+    "name": "Urban Explorer",
+    "description": "This outfit pairs black jeans with a gray shirt for a simple yet stylish look. Brown Oxford shoes add a touch of sophistication, while a gray belt ties everything together. Perfect for a relaxed evening or casual outing.",
+    "itemIds": [
+      "5cf1bf11-393a-445e-9c45-ce72e6a58a62",
+      "4e9cf323-6ed4-45bf-a601-9835cd1ead1f",
+      "9ff5772f-db23-49e9-8915-e21c04820827",
+      "fbc61b02-b975-4511-a9d1-c112084f705a",
+      "62f15974-c1ac-4dbd-91f6-a32617826172"
+    ],
+    "userId": "zHrX30Fp6TNKTBoBV9S6fdlsxaA3",
+    "itemLayouts": {
+      "5cf1bf11-393a-445e-9c45-ce72e6a58a62": {
+        "x": 50,
+        "y": 70,
+        "width": 50,
+        "height": 50,
+        "zIndex": 2
+      },
+      "4e9cf323-6ed4-45bf-a601-9835cd1ead1f": {
+        "x": 47.93918763512581,
+        "y": 9.0625,
+        "width": 60,
+        "height": 50,
+        "zIndex": 3
+      },
+      "9ff5772f-db23-49e9-8915-e21c04820827": {
+        "x": 106.5251391508349,
+        "y": 80.3125,
+        "width": 50,
+        "height": 50,
+        "zIndex": 2
+      },
+      "fbc61b02-b975-4511-a9d1-c112084f705a": {
+        "x": 26.153456920741526,
+        "y": 43.125,
+        "width": 50,
+        "height": 50,
+        "zIndex": 3
+      },
+      "62f15974-c1ac-4dbd-91f6-a32617826172": {
+        "x": 91.80505083030498,
+        "y": 35.3125,
+        "width": 50,
+        "height": 50,
+        "zIndex": 4
+      }
+    }
+  },
+  {
+    "id": "3bbe7520-a0f2-4546-b7d1-ba81d8ebf6dd",
+    "name": "Summer Breeze",
+    "description": "This vibrant summer outfit pairs red shorts with a white polo shirt, perfect for a relaxed summer day. Complete the look with gray sneakers for comfort and a beige fedora for sun protection and style.",
+    "itemIds": [
+      "45895b74-d7f9-4c6e-a0fa-d2c1fc80d748",
+      "fa178ef5-80dd-4131-acc8-51722a14b12b",
+      "ee8dc33d-2521-46c4-90e9-1414a68a4dbf",
+      "53a8920c-1d53-44ac-a971-cd0e63e1138b"
+    ],
+    "userId": "zHrX30Fp6TNKTBoBV9S6fdlsxaA3"
+  },
+  {
+    "id": "9a6c730c-2549-405f-a432-a1633c95cdf3",
+    "name": "Slim Fit Garden Party",
+    "description": "Opt for a modern garden party look with slim beige pants paired with a light blue polo shirt. The slim fit creates a polished silhouette, perfect for mingling. Accessorize with white sneakers for a fresh touch, and add a blue and gold watch and brown sunglasses to complete the outfit.",
+    "itemIds": [
+      "c60191d7-261e-4ee8-ad32-56a1c2c107b4",
+      "3f722f94-a283-40c0-8805-42823a0cb5b2",
+      "0a1b2c3d-4e5f-4a7b-8c9d-0e1f2a3b4c5d",
+      "7f8a9b0c-1d2e-4f4a-5b6c-7d8e9f0a1b2c",
+      "e9f0a1b2-c3d4-4e5f-6a7b-8c9d0e1f2a3b"
+    ],
+    "userId": "zHrX30Fp6TNKTBoBV9S6fdlsxaA3"
+  }
+]

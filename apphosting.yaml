@@ -1,0 +1,17 @@
+runtime: nodejs22
+
+backends:
+  - name: stylgpt
+    region: us-east5
+    entrypoint: .
+    env:
+      - variable: SERVICE_ACCOUNT_JSON
+        secret: SERVICE_ACCOUNT_JSON
+      - variable: FIREBASE_STORAGE_BUCKET
+        value: "styleai-wardrobe-r2ynw.appspot.com"
+      - variable: NODE_ENV
+        value: "production"
+    build:
+     - npm install
+    start:
+     - npm run start
