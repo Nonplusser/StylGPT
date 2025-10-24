@@ -1,4 +1,3 @@
-
 import admin from 'firebase-admin';
 
 // Function to initialize the app and return the instance
@@ -13,6 +12,9 @@ const initializeAdminApp = () => {
   }
 
   const serviceAccount = JSON.parse(serviceAccountString);
+
+  // Un-escape the private key's newline characters.
+  serviceAccount.private_key = serviceAccount.private_key.replace(/\\n/g, '\n');
   
   return admin.initializeApp({
     credential: admin.credential.cert(serviceAccount),
