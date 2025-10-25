@@ -8,10 +8,16 @@ const initializeAdminApp = () => {
   
   const serviceAccountString = process.env.SERVICE_ACCOUNT_JSON;
   if (!serviceAccountString) {
-      throw new Error('Firebase Admin SDK service account credentials are not set.');
+      throw new Error('Firebase Admin SDK service account credentials are not set in the SERVICE_ACCOUNT_JSON environment variable.');
   }
 
-  const serviceAccount = JSON.parse(serviceAccountString);
+  let serviceAccount;
+  try {
+    serviceAccount = JSON.parse(serviceAccountString);
+  } catch (e) {
+    console.error('Failed to parse SERVICE_ACCOUNT_JSON. Ensure it is a valid, single-line JSON string.', e);
+    throw new Error('The SERVICE_ACCOUNT_JSON environment variable is not valid JSON.');
+  }
 
   // Un-escape the private key's newline characters.
   serviceAccount.private_key = serviceAccount.private_key.replace(/\\n/g, '\n');
